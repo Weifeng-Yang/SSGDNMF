@@ -13,9 +13,9 @@ clc
 %               when 3∈trigger, enable the GDNMF method
 %               when 4∈trigger, enable the 𝓁1-SDNMF method
 %               when 5∈trigger, enable the DHGLpSNMF method
-%               when 6∈trigger, enable the L1SGDNMF method 
-%               when 7∈trigger, enable the L21SSDNMF method
-%               when 8∈trigger, enable the L21SSGDNMF method
+%               when 6∈trigger, enable the 𝓁1-SGDNMF method 
+%               when 7∈trigger, enable the 𝓁21-SSDNMF method
+%               when 8∈trigger, enable the 𝓁21-SSGDNMF method
 %   lamda     ：The sparse regularization parameters
 %   alphat    : The graph regularization parameter
 %   stopindex : The indicator of the stop condition.  
