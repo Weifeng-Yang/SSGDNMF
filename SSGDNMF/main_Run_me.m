@@ -22,8 +22,9 @@ clc
 %               To set the specific termination condition, see the 'stopcheck' function for details.  
 %               The default termination condition is: ϵ<1e-6 or maxiteropt>8000 
 %% Display
-%   nonzero   ：The number of non-zero elements in each component.
-%   Rel       : The difference in the variable value between two iterations.
+%   nonzero       ：The number of non-zero elements in each component.
+%   nonzero rows  ：The number of non-zero rows in each component.
+%   Rel           : The difference in the variable value between two iterations.
 
 
 %% Parameter settings and Select dataset
