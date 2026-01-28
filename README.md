@@ -14,4 +14,4 @@ This code has built-in some data mentioned in our paper[<sup>1</sup>](#refer-id)
 
 ## Reference
 <div id="refer-id"></div>
-[1] Structured sparse deep nonnegative matrix factorization with $\ell_{2,1}$-norm and graph regularization for clustering.
+[1] Structured sparse deep nonnegative matrix factorization with $\ell_{2,1}$-norm and graph regularization for clustering
